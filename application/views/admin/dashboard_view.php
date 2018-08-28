@@ -10,7 +10,7 @@
 	<div class="col-md-6">
 		<div class="panel panel-default">
 			<div class="panel-heading">
-				<div class="panel-title pull-left">Latest Members</div>
+				<div class="panel-title pull-left">Latest Members TESTx</div>
 				<a href="<?php echo site_url('admin/users') ?>" class="btn btn-xs btn-info pull-right">All Users TESTTTz</a>
 				<div class="clearfix"></div>
 			</div>
